@@ -2,3 +2,5 @@ art/
 renders/
 printing/
 renders-small/
+
+*.csv
