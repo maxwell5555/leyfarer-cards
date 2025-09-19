@@ -16,7 +16,7 @@ I've created several templates that can be used with Card Conjurer.
 - Creature Statblock
 
 ### Loading a template
-1. Go to the [Card Conjurer creator|https://cardconjurer.com/creator]
+1. Go to the [Card Conjurer creator](https://cardconjurer.com/creator)
 1. Select the "Frames" tab
 1. Drag your chosen template to the box that says "Drag your template here" 
 This will load the chosen template into the creator and you can then proceed to filling in the card details
